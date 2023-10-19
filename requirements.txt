@@ -1,0 +1,5 @@
+pytube
+openai
+python-dotenv
+opencv-python
+moviepy
